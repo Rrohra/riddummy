@@ -11,4 +11,7 @@ public class Hello {
 	public void function3() {
 		System.out.println("this is branch2 commit2");
 	}
+	public void function4() {
+		System.out.println("this is branch2 commit 3");
+	}
 }
